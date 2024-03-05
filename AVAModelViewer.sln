@@ -37,6 +37,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVAModelViewer.UseCases", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documentation", "documentation", "{25E2C5B0-A2B1-4CEF-984D-1EF91B740D5A}"
 	ProjectSection(SolutionItems) = preProject
+		documentation\Documentation.md = documentation\Documentation.md
 		documentation\roadmap.md = documentation\roadmap.md
 	EndProjectSection
 EndProject
